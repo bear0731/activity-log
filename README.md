@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged a PR in a private repo
-2. 🔀 Merged [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-3. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-10-07` in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-4. 🔎 Reviewed [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-5. 🔀 Merged [PR #33](https://github.com/Wiresense/frontend/pull/33) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-6. 🔀 Merged [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-7. 🔎 Reviewed [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-8. 🔀 Merged [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-9. 📝 Committed to [Wiresense/frontend](https://github.com/Wiresense/frontend/commit/c3033c6dd92c6ba79069aec4be284256be551447)
-10. 🔎 Reviewed [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+1. 📝 Committed to [bear0731/DevOps_HW4](https://github.com/bear0731/DevOps_HW4/commit/feb07534ec2c605f85f580fccd043e90778a7e5d)
+2. 📝 Committed to [bear0731/DevOps_HW4](https://github.com/bear0731/DevOps_HW4/commit/66f44988ec2c9606e4862106ad1295d174ff64b1)
+3. 📝 Committed to [bear0731/DevOps_HW4](https://github.com/bear0731/DevOps_HW4/commit/bbd152d6da5bdd2fadd310d30b548675c95eabaf)
+4. 📝 Committed to [bear0731/DevOps_HW4](https://github.com/bear0731/DevOps_HW4/commit/c67e5a55d43a11650dae1d1817a9360dc2485ad8)
+5. 📝 Committed to [bear0731/DevOps_HW4](https://github.com/bear0731/DevOps_HW4/commit/7608dc290ce311137f522e11419a45f535c19a70)
+6. 📝 Committed to [bear0731/DevOps_HW4](https://github.com/bear0731/DevOps_HW4/commit/2c6f41b257930048b4169bc4d6e25061d71ef593)
+7. 📝 Committed to [bear0731/DevOps_HW4](https://github.com/bear0731/DevOps_HW4/commit/d613c743b0271ab884b3d145b03f2d24896ddc92)
+8. 📝 Committed to [bear0731/DevOps_HW4](https://github.com/bear0731/DevOps_HW4/commit/ef6e53e6ac1fe5405f4e04b4a82b203889681fc6)
+9. 📝 Committed to [bear0731/DevOps_HW4](https://github.com/bear0731/DevOps_HW4/commit/ed0ed78947d70a5eaab75b37c854779f6e34cebf)
+10. 📝 Committed to [bear0731/DevOps_HW4](https://github.com/bear0731/DevOps_HW4/commit/3bc6d033b3d6b89db3c1a897ed50f92d652ee7ba)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
