@@ -29,8 +29,8 @@ jobs:
       - name: Commit
         run: |
           git add package-lock.json
-          git config --global user.name 'raymundlin'
-          git config --global user.email '142639231+raymundlin@users.noreply.github.com'
+          git config --global user.name 'bear0731'
+          git config --global user.email 'a071310731@gmail.com'
           git commit -am "dist build"
           git push
 
@@ -44,9 +44,9 @@ jobs:
       - uses: actions/checkout@v4
       - name: Test index.js
         env:
-          INPUT_GITHUB_USERNAME: "raymundlin"
+          INPUT_GITHUB_USERNAME: "bear0731"
           INPUT_GITHUB_TOKEN: ${{ secrets.token }}
-          INPUT_TARGET_REPOS: '[raymundlin/activity-log]'
+          INPUT_TARGET_REPOS: '[bear0731/activity-log]'
           INPUT_OUTPUT_STYLE: MARKDOWN
           INPUT_IGNORE_EVENTS: '[]'
           INPUT_README_PATH: README.md
@@ -61,8 +61,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Pull latest
         run: |
-          git config --global user.name 'raymundlin'
-          git config --global user.email '142639231+raymundlin@users.noreply.github.com'
+          git config --global user.name 'bear0731'
+          git config --global user.email 'a071310731@gmail.com'
           git pull
       - name: Tag it
         run: |
