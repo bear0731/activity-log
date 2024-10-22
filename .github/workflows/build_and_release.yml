@@ -28,7 +28,7 @@ jobs:
           npm run build
       - name: Commit
         run: |
-          git config --global user.name 'raymundlin'
+          git config --global user.name 'bear0731'
           git config --global user.email 'a071310731@gmail.com'
           git commit -am "dist build"
           git push
@@ -44,7 +44,7 @@ jobs:
       - name: Test index.js
         env:
           INPUT_GITHUB_USERNAME: "bear0731"
-          INPUT_GITHUB_TOKEN: ${{ secrets.ACTIONSECRET2024 }}
+          INPUT_GITHUB_TOKEN: ${{ secrets.token }}
           INPUT_TARGET_REPOS: '[bear0731/activity-log]'
           INPUT_OUTPUT_STYLE: MARKDOWN
           INPUT_IGNORE_EVENTS: '[]'
