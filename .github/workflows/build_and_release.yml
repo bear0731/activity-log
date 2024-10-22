@@ -28,7 +28,6 @@ jobs:
           npm run build
       - name: Commit
         run: |
-          git add package-lock.json
           git config --global user.name 'bear0731'
           git config --global user.email 'a071310731@gmail.com'
           git commit -am "dist build"
